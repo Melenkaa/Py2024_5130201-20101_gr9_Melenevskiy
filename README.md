@@ -7,5 +7,5 @@
 - Ability to get the contents of a specific table based on a filter
 - Ability to add reviews
 - Ability to get the list of books of a given genre, sorted by rating
-- 
+ 
 # This module uses psycopg2 and works on PostgreSQL 
